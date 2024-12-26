@@ -54,4 +54,4 @@ jobs:
           app-name: 'Sadamonafoodrestaurants'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1048EC2BC7FF486D808B5C391BE73144 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D72BB2EC8A9242A5BAB47FBFDB26DB1D }}
